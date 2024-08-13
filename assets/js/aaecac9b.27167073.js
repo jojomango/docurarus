@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_simple=self.webpackChunkdocusaurus_simple||[]).push([[708],{8104:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/docurarus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
